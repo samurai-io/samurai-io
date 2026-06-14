@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Sanjay+S+%F0%9F%91%8B;Red+Teamer+%F0%9F%94%B4;Bug+Bounty+Hunter+%F0%9F%90%9B;CTF+Player+%F0%9F%9A%A9;Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;Penetration+Tester+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=WHITEDECVIL&label=Profile%20Views&color=00ff41&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/WHITEDECVIL?label=Followers&style=social)](https://github.com/WHITEDECVIL)
+![Profile Views](https://komarev.com/ghpvc/?username=samurai-io&label=Profile%20Views&color=00ff41&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/samurai-io?label=Followers&style=social)](https://github.com/samurai-io)
 
 </div>
 
@@ -80,8 +80,8 @@ $ whoami
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=WHITEDECVIL&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHITEDECVIL&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=samurai-io&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samurai-io&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" width="38%" />
 
 </div>
 
@@ -91,7 +91,7 @@ $ whoami
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=WHITEDECVIL&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=samurai-io&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
 
 </div>
 
@@ -101,7 +101,7 @@ $ whoami
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WHITEDECVIL&theme=matrix&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=samurai-io&theme=matrix&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -111,7 +111,7 @@ $ whoami
 
 <div align="center">
 
-[![Sanjay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WHITEDECVIL&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sanjay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samurai-io&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -121,7 +121,7 @@ $ whoami
 
 <div align="center">
 
-![snake gif](https://github.com/WHITEDECVIL/WHITEDECVIL/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/samurai-io/samurai-io/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
